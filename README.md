@@ -26,6 +26,8 @@
    + Lombok;
    + CORS;
    + Requisições - GET, POST, PUT e DELETE.
+   + Rodar Aplicação no backend comando mvn spring-boot:run
+   + Rodar Aplicação no frontend npm start
 
   </div>
 </div>
