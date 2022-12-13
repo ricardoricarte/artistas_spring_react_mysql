@@ -16,19 +16,16 @@
   <div align="justify">
   <h3>Tópicos abordados:</h3>
   
-   + Introdução;
-   + Criando projeto Spring Boot;
-   + Gerando tabela;
-   + Estruturando projeto Spring Boot;
-   + Configurando repositório;
-   + Configurando controle;
-   + Criando serviços;
-   + Realizando requisições - GET, POST, PUT e DELETE;
-   + Resolvendo o problema de CORS;
-   + Criando projeto React;
-   + Criando os componentes;
-   + Utilizando Hooks;
-   + Implementando requisições - GET, POST, PUT e DELETE.
+   + Tecnologias
+   + MySql;
+   + JPA;
+   + React;
+   + Hooks;
+   + Spring Boot;
+   + Java 11;
+   + Lombok;
+   + CORS;
+   + Requisições - GET, POST, PUT e DELETE.
 
   </div>
 </div>
