@@ -14,9 +14,8 @@
   <p>Repositório destinado aos arquivos da Aplicação cadastro de Artistas</p>
   <br>
   <div align="justify">
-  <h3>Tópicos abordados:</h3>
+  <h3>Tecnologias:</h3>
   
-   + Tecnologias
    + MySql;
    + JPA;
    + React;
